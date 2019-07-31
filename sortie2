@@ -1,0 +1,2863 @@
+┌─┬─┬─────┬─────┐ 
+│ │ ╵ ╶─┐ │ ╷ ╶─┤ 
+│ └─────┤ ╵ └─┐ │ 
+├─────┐ └─┬───┘ │ 
+├───╴ └─┐ │ ┌───┤ 
+│ ┌───╴ │ │ ╵ ╷ │ 
+│ └─────┤ └─┐ │ │ 
+│ ╶───┐ └─╴ └─┘ │ 
+└─────┴─────────┘ 
+
+**** Génération 0  ****
+ScoreMoyen : 2.27 
+
+BestScore : 49 
+
+↓ ← ← ↓ ↓ ↑ → ↑ 
+↓ → → ← ↑ ← ↑ → 
+→ → ← → ← ↓ → ↓ 
+→ → → ↑ → ← → ↓ 
+→ → ↓ → → ↑ ↑ ← 
+↓ → ↓ ↑ ↓ → ↑ → 
+↑ ← ← ↑ ↑ ← ← ↑ 
+← ← → → ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Gauche
+
+
+**** Génération 1  ****
+ScoreMoyen : 17.846 
+
+BestScore : 49 
+
+↓ ← ← ↓ ↓ ↑ → ↑ 
+↓ → → ← ↑ ← ↑ → 
+→ → ← → ← ↓ → ↓ 
+→ → → ↑ → ← → ↓ 
+→ → ↓ → → ↑ ↑ ← 
+↓ → ↓ ↑ ↓ → ↑ → 
+↑ ↑ ← ↑ ↑ ← ← ↑ 
+← ← → → ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Gauche
+
+
+**** Génération 2  ****
+ScoreMoyen : 22.704 
+
+BestScore : 49 
+
+↓ ↑ ← ↓ ↓ ↑ → ↑ 
+↓ → → ← ↑ ← ↑ → 
+→ → ← → ← ↓ → ↓ 
+→ → → ↑ → ← → → 
+→ → ↓ → → ↑ ↑ ← 
+↓ → ↓ ↑ ↓ → ↑ → 
+↑ ← ← ↓ ↑ ← ← ↑ 
+← ← → → ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Gauche
+
+
+**** Génération 3  ****
+ScoreMoyen : 27.62 
+
+BestScore : 71 
+
+↓ ← ← ↑ ↑ ← → ← 
+↓ ← ↑ → ↓ ← ↓ ↑ 
+→ → → ↓ ↑ ← ↓ ↓ 
+← ↓ → ↑ → ↑ ← ← 
+← ↑ ↑ ← → ← → ↓ 
+↑ ↓ → ↑ ← ↓ ← ↑ 
+→ ↑ ↑ ↓ ↑ ↑ ↓ ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Haut
+
+
+**** Génération 4  ****
+ScoreMoyen : 29.44 
+
+BestScore : 71 
+
+↓ ← ← ↑ ↑ ← → ← 
+↓ ← ↑ → ↓ ← ↓ ↑ 
+→ → → ↓ ↑ ← ↓ ↓ 
+← ↓ → ↑ → ↑ ← ← 
+← ↑ ↑ ← → ← → ↓ 
+↑ ↓ → ↑ ← ↓ ← ↑ 
+→ ↑ ↑ ↓ ↑ ↑ ↓ ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Haut
+
+
+**** Génération 5  ****
+ScoreMoyen : 33.992 
+
+BestScore : 71 
+
+↓ ← ← ↑ ↑ ← → ← 
+↓ ← ↑ → ↓ ← ↓ ↑ 
+→ → → ↓ ↑ ↓ ↓ ↓ 
+← ↓ → ↑ → ↑ ← ← 
+← ↑ ↑ ← → ← → ↓ 
+↑ ↓ → → ← ↑ ← ↑ 
+↑ ↑ ↑ ↓ ↑ ↑ ← ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Haut
+
+
+**** Génération 6  ****
+ScoreMoyen : 36.818 
+
+BestScore : 71 
+
+↓ ← ← → ↑ ← → ← 
+↓ ← ↑ → ↓ ← ↓ ↑ 
+→ → → ↓ ↑ → ↓ ↓ 
+→ ↓ ↑ ↑ → ↑ ← ← 
+← ↑ ↑ ← → ← → ← 
+↑ ↓ → ↑ ← ↓ ← ↑ 
+→ ↑ ← ↓ ↑ ↑ ↓ ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Haut
+
+
+**** Génération 7  ****
+ScoreMoyen : 39.204 
+
+BestScore : 71 
+
+↓ ← ← ↑ ↑ ← → ← 
+↓ ← ↑ → ↓ ← ↓ ↑ 
+→ → → ↓ ↑ ↓ ↓ ↓ 
+← ↓ → ↑ → ↓ ← ← 
+← ↑ ↑ ← → ← → ↓ 
+↑ ↓ → ↑ ← ↓ ← ↑ 
+→ ↑ ↑ ↓ ↑ ↑ ↓ ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Haut
+
+
+**** Génération 8  ****
+ScoreMoyen : 43.558 
+
+BestScore : 75 
+
+↓ ← → → ↑ ↑ → ↑ 
+↓ → → ← ↑ ← ↑ → 
+→ → → ↓ ↑ ↓ → ↓ 
+↑ → → → → ← → ↓ 
+→ → ← → → ← ↑ ← 
+↓ → ↑ ↑ ↓ ↓ ↑ → 
+↑ ← ↓ ↑ ↑ ← ← ↓ 
+↑ ← ↓ ← ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 9  ****
+ScoreMoyen : 43.938 
+
+BestScore : 75 
+
+↓ ← ← ↑ ↑ ← → ← 
+↓ ← ← → ↓ ↑ ↓ ↓ 
+→ → → ↓ ↑ ↓ ↓ ↓ 
+→ ↓ → → → ↑ ← ← 
+← ← ↑ ← ↓ ← ↓ ↓ 
+↑ ↓ ↓ ← ↑ ↑ ← ↑ 
+↓ ↑ ↑ ← ↑ → ↓ ← 
+↑ ← → ↑ ← ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 10  ****
+ScoreMoyen : 45.128 
+
+BestScore : 75 
+
+↓ ← → → ↑ ↑ → ↑ 
+↓ → → ← ↑ ← ↑ → 
+→ → → ↓ ↑ ↓ → ↓ 
+↑ → → → → ← → ↓ 
+→ → ← → → ← ↑ ← 
+↓ → ↑ ↑ ↓ ↓ ↑ → 
+↑ ← ↓ ↑ ↑ ← ↓ ↓ 
+↑ ← ↓ ← ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 11  ****
+ScoreMoyen : 45.232 
+
+BestScore : 75 
+
+↓ ← → ↓ ↑ → ↑ ← 
+↓ → → ↓ ↓ → → ↑ 
+→ → → ↓ ↓ ↑ ← ↓ 
+← ↓ → → ↑ ↑ → → 
+← ↑ ↓ → ↓ ↓ ↑ → 
+→ ↑ ← ← ← ↑ ← ↑ 
+→ ↓ ↓ ↓ → ↓ → → 
+→ ↓ ↓ ↓ → ↑ → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Haut
+
+
+**** Génération 12  ****
+ScoreMoyen : 45.228 
+
+BestScore : 82 
+
+↓ ← → → ↑ ↑ → ↑ 
+↓ → → ↑ ← ← ↑ → 
+→ → → ↓ ↑ ↓ → ↑ 
+↑ → ← → ← ↑ ↑ ↓ 
+→ → ← → → ← ↑ ← 
+↓ → ↑ ↑ ↓ ↓ ↑ ↓ 
+↑ ← ← ↑ ↑ ↑ ← ↓ 
+↑ ← ↓ ← ↓ ↓ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Gauche
+
+
+**** Génération 13  ****
+ScoreMoyen : 47.71 
+
+BestScore : 97 
+
+↓ ← ↓ ↓ ↑ → ← ← 
+↓ → → ↓ ↓ → → ↑ 
+→ → → ↓ ↓ ↑ ← ↑ 
+← ← → → ↓ ↑ → → 
+← → ↓ → ↓ → ← → 
+→ ↑ ← ↑ ← ↑ ← ↑ 
+→ ↓ ↓ ↓ → → → → 
+→ ↓ ↓ ↓ → ↑ → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Gauche
+
+
+**** Génération 14  ****
+ScoreMoyen : 48.208 
+
+BestScore : 97 
+
+↓ ← ↓ ↓ ↑ → ← ← 
+↓ → → ↓ ↓ → → ↑ 
+→ → → ↓ ↑ ↑ ← ↑ 
+← ← → → ↓ ↑ → ↑ 
+← → ↓ → ↓ → ← → 
+→ ↑ ← ↑ ← ↑ ↑ ↑ 
+→ ↓ ↓ ↓ → → → → 
+→ ↓ ↓ ↓ → ↑ → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Gauche
+
+
+**** Génération 15  ****
+ScoreMoyen : 50.068 
+
+BestScore : 97 
+
+↓ ← ↓ ↓ ↑ → ← ← 
+↓ → → ↓ ↓ → → ↑ 
+→ → → ↓ ↑ ↑ ← ↑ 
+← ← ↓ → ↓ ↑ → ↑ 
+← → ↓ → ↓ → ← → 
+→ ↑ ← ↑ ← ↑ ↑ ↑ 
+→ ↓ ↓ ↓ → → → → 
+→ ↓ ↓ ↓ → ↑ → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Gauche
+
+
+**** Génération 16  ****
+ScoreMoyen : 50.542 
+
+BestScore : 97 
+
+↓ ← ↓ ↓ ↑ → ← ← 
+↓ → → ↓ ↓ → → ↑ 
+→ → → ↓ ↑ ↑ ← ↑ 
+← ← ↓ → ↓ ↑ → ↑ 
+← → ↓ → ↓ → ← → 
+↓ ↑ ← ↑ ← ↑ ↑ → 
+→ ↓ ↓ ↓ → → → → 
+→ ↓ ↓ ↓ → ↑ → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Gauche
+
+
+**** Génération 17  ****
+ScoreMoyen : 51.738 
+
+BestScore : 86 
+
+↓ → ← → ↑ ↓ → ↑ 
+↓ → → ← ↑ ← ← ↑ 
+→ → → ↓ ↑ ↓ → ↓ 
+↑ ↓ → → ↓ ← → → 
+← → ← ← → ← ↑ ← 
+↓ → ↓ ↑ ↓ ↓ ↓ → 
+↑ ← ↓ ↑ → ← ← ↓ 
+← ← ↓ ← ↓ ↓ ↑ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Droite
+
+
+**** Génération 18  ****
+ScoreMoyen : 53.924 
+
+BestScore : 86 
+
+↓ → ← → ↑ ↑ → ↑ 
+↓ → → ← ↑ ← ← ↑ 
+→ → → ↓ ↑ ↓ → ↓ 
+↑ ↓ → → ↓ ← → → 
+↓ → ← ↓ → ← ↑ ← 
+↓ → ↓ ↑ ↓ ↓ ↓ → 
+↑ ← ↓ ↑ ← ← ← ↓ 
+← ← ↓ ← ↓ ↓ ↑ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Droite
+
+
+**** Génération 19  ****
+ScoreMoyen : 54.19 
+
+BestScore : 93 
+
+↓ ↓ ↓ ↑ → ↑ ← ← 
+↓ ← → → ↑ → ↓ ↑ 
+→ → → ↓ → ← → ← 
+↓ → ↓ → ↓ ↓ ← ← 
+↑ ↓ ↓ ← ↑ ← → ↓ 
+↓ ↓ → ↓ ← → ↓ → 
+↓ ↑ ↑ ↓ ↑ ↓ ↓ ← 
+↑ ↑ → → ↑ ← ↓ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Haut
+
+
+**** Génération 20  ****
+ScoreMoyen : 55.996 
+
+BestScore : 86 
+
+↓ → ← → → ↓ ↓ ↑ 
+↓ ← → ← ↑ ← ← ↑ 
+→ → → ↓ ↑ ↓ → ↓ 
+↑ ↓ → → ↓ ← → → 
+← → ← ← → ← ↑ ← 
+↓ → ↓ ↑ ↓ ↓ ↓ → 
+↑ ← ↓ ↑ → ← ← ↓ 
+← ← ↑ ← ↓ ↓ ↑ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Droite
+
+
+**** Génération 21  ****
+ScoreMoyen : 54.952 
+
+BestScore : 126 
+
+↓ → ← → ↑ ↓ ↓ → 
+↓ ← → ← ↑ ← ← ↑ 
+→ → → ↓ ↑ ↓ → ↓ 
+→ ↓ → → ↓ ← → ← 
+← → ← ← ↓ ← ↑ ← 
+↓ → ↓ → ↓ ↓ ↓ → 
+↑ ← ↓ ↓ → ← ← ↓ 
+← ← → ↓ → ↓ ↑ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Gauche
+
+
+**** Génération 22  ****
+ScoreMoyen : 53.9 
+
+BestScore : 97 
+
+↓ ← ← → ↓ ↑ ↓ ↑ 
+↓ ← → ← ↓ ← ↓ → 
+→ → → ↓ ← ↓ → ← 
+↑ ↓ → → ↓ ↑ ↓ → 
+→ → ← → ↓ ← ↑ ← 
+↓ → ↓ ↑ → ↓ ↓ → 
+→ ← ↑ ↑ ↑ ← ← ↑ 
+↑ ← ↓ → ↓ ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Droite
+
+
+**** Génération 23  ****
+ScoreMoyen : 52.62 
+
+BestScore : 97 
+
+↓ ← ← → ↓ ↑ ↓ ↑ 
+↓ ← → ← ↓ ← ↓ → 
+→ → → ↓ ↑ ← → ← 
+↑ ↓ → → ↓ ↑ ↓ → 
+→ → ← → ↓ ← ↑ ← 
+↓ → ↓ ↑ → ↓ ↓ → 
+→ ← ↑ ↓ ↑ ← ← ↑ 
+↑ ← ↓ → ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Droite
+
+
+**** Génération 24  ****
+ScoreMoyen : 56.218 
+
+BestScore : 97 
+
+↓ ← ← → → ↑ ↓ → 
+↓ ← → ← ↓ ← ↓ → 
+→ → → ↓ ← ↓ → → 
+↑ ↓ → → ↓ ↑ ↓ → 
+→ → ← ← ↓ ← ↑ ← 
+↓ → ↓ → → ↓ ↓ → 
+→ ← ↑ ↑ ↑ ← ← ↑ 
+↑ ← → → ↓ ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Droite
+
+
+**** Génération 25  ****
+ScoreMoyen : 55.766 
+
+BestScore : 104 
+
+↓ ← ↑ → ↓ → ↓ ↑ 
+↓ ← → ← ← ← ↓ → 
+→ → → ↓ ↑ ← ↓ ← 
+↑ ↓ → → ↓ ↑ ↓ → 
+→ → ← → ↓ ← ↑ ← 
+← → ↓ ↑ ↑ ← ↓ → 
+→ ← ↑ ↓ ↑ ← ← ↑ 
+↑ ← ↓ → ↓ → ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Haut
+
+
+**** Génération 26  ****
+ScoreMoyen : 56.66 
+
+BestScore : 97 
+
+↓ ← ↓ → → ↑ → ← 
+↓ ← → ← ↓ ← ↓ → 
+→ → → ↓ ← ↓ → → 
+↑ ↓ → → ↓ ↑ ↓ → 
+→ → ← ← ↓ → ↑ ← 
+↓ ↓ ↓ ↑ → ↓ ↓ → 
+→ ← → ↑ ↑ ← ← ↑ 
+↑ ← → → ↓ ↓ → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Droite
+
+
+**** Génération 27  ****
+ScoreMoyen : 57.652 
+
+BestScore : 115 
+
+↓ ↑ ↓ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↓ ← ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ → ← → ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ↓ → 
+→ → ← ↓ ↑ ← ↑ ↑ 
+↑ ← ↓ → ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 28  ****
+ScoreMoyen : 58.516 
+
+BestScore : 115 
+
+↓ ↑ ↓ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↓ ↑ ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ → ← ↓ ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ↓ → 
+→ → ← ↓ ↑ ← ↑ ↑ 
+↑ ← ↓ → ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 29  ****
+ScoreMoyen : 60.142 
+
+BestScore : 115 
+
+↓ ↑ ↓ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↓ ↑ ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ↓ → 
+→ → ← ↓ ↑ ← ↑ ↑ 
+↑ ← ↓ → ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 30  ****
+ScoreMoyen : 60.536 
+
+BestScore : 115 
+
+↓ ← ↓ ↓ ↑ ↑ ↓ ↓ 
+↓ ← ← ↑ → ↓ ↓ ↑ 
+→ → → ↓ ← ↓ → → 
+↑ → ← → ↓ → → ← 
+↓ ↑ ↑ ← ↓ → ← ← 
+↓ ↑ ↑ ↑ ↓ → ↑ → 
+↓ ↓ → ↓ ↑ → ↑ ← 
+↑ ↑ ← ↓ ← → ↓ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 31  ****
+ScoreMoyen : 63.22 
+
+BestScore : 115 
+
+↓ ↑ ↓ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↓ ↑ ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ↓ ↓ 
+→ → ← ↓ ↑ ← ↑ ↑ 
+↑ ← ↓ → ← ↓ → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 32  ****
+ScoreMoyen : 62.912 
+
+BestScore : 115 
+
+↓ ↑ ↑ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↓ ↑ ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ ↑ → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ← ↓ 
+→ → ← ↓ ↑ ← ↑ ↑ 
+↑ ← ↓ → ← ↓ → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Haut
+
+
+**** Génération 33  ****
+ScoreMoyen : 66.048 
+
+BestScore : 126 
+
+↓ ↑ ↓ → ↓ ↑ → ↑ 
+↓ ← → ↑ ↑ ↑ ↓ → 
+→ → → ↓ ← ← → → 
+↑ ↓ ↑ → ↓ ↑ → → 
+→ ↓ ← ↑ ↓ ← ↑ ← 
+↓ ↑ ↓ ↑ ↓ ↓ ↑ → 
+→ → ← → → ← ↑ ↑ 
+↑ ← ↓ ↓ ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Gauche
+
+
+**** Génération 34  ****
+ScoreMoyen : 67.238 
+
+BestScore : 126 
+
+↓ ↑ ↓ ↓ → ↑ ← ↑ 
+↓ ← → ← ↓ → ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+→ ↑ ↓ ↑ ↓ ↓ ← → 
+→ → ← ↓ → ← → ↑ 
+↑ ← ↓ ↓ ← ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Gauche
+
+
+**** Génération 35  ****
+ScoreMoyen : 63.546 
+
+BestScore : 130 
+
+↓ ↑ ↓ ↓ → ↑ ↓ ↑ 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+→ ↑ ↓ ↑ ↓ ↓ ↓ → 
+→ → ← ↓ → ↓ ↑ ↑ 
+↑ ↑ ↓ → ↑ ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Bas
+
+
+**** Génération 36  ****
+ScoreMoyen : 67.558 
+
+BestScore : 130 
+
+↓ ↑ ↓ ↓ → ↑ ↓ ↑ 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↑ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+→ ↑ ↓ ↑ ↓ ↓ ↓ → 
+→ → ← ↓ → ↓ ↑ ↑ 
+↑ ↑ ↓ → ↑ ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Bas
+
+
+**** Génération 37  ****
+ScoreMoyen : 67.75 
+
+BestScore : 130 
+
+↓ ↑ ↓ ↓ → ↑ ↓ ↑ 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ ← ← ← ← 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+→ ↑ ↓ ↑ ↓ ← ↓ → 
+↓ → ← ↓ → ↓ → ↑ 
+↑ ↑ ↓ → ↑ ↓ ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Bas
+
+
+**** Génération 38  ****
+ScoreMoyen : 66.678 
+
+BestScore : 141 
+
+↓ ↑ → ↓ → ↑ ↓ ↑ 
+↓ ← ← ↓ → → ↓ → 
+→ → → ↓ ← ← → ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+↓ ↓ ← → ↓ ← ↑ ← 
+→ → ↓ ↑ ↓ ↑ ↓ → 
+→ → ← ↓ → ↓ ↑ ← 
+↓ ↑ ↓ → ↑ → ↑ → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Haut
+
+
+**** Génération 39  ****
+ScoreMoyen : 68.804 
+
+BestScore : 141 
+
+↓ ↑ ← ↓ → ↑ ↓ ↑ 
+↓ ← ← ↓ → ↑ ↓ → 
+→ → → ↓ ← ← ← ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+→ → ↓ ↑ ↓ ↑ ↓ → 
+→ → ← ↓ → ↓ ↑ ← 
+↓ ↑ ↓ → ↑ → ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Haut
+
+
+**** Génération 40  ****
+ScoreMoyen : 68.674 
+
+BestScore : 141 
+
+↓ ↑ ← ↓ → ↑ ↓ ↑ 
+↓ ← ← ↓ → ↑ ↓ → 
+→ → → ↓ ← ← ← ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ↑ 
+→ → ↓ ↑ ↓ ↑ ↓ → 
+→ → ← ↑ → ↓ ↑ ← 
+↓ ↑ ↓ → ↑ → ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Haut
+
+
+**** Génération 41  ****
+ScoreMoyen : 71.536 
+
+BestScore : 136 
+
+↓ ↑ ↓ ↓ ↑ ↑ ↓ ← 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ ← ← ↓ ↓ 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ → ↑ ← 
+→ ↑ ↓ ↑ ↓ ← ↓ → 
+↓ → ← ↓ → ↓ → ↑ 
+↑ ↑ ↓ → ↑ ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Haut
+
+
+**** Génération 42  ****
+ScoreMoyen : 73.694 
+
+BestScore : 136 
+
+↓ ↑ ↓ ↓ ↑ ↑ ↓ ← 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ ← ← ← ↓ 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ → ↑ ↓ 
+→ ↑ ↑ ↑ ↓ ← ↓ → 
+↓ → ← → → ↓ → ↑ 
+↑ ↑ ↓ → ↑ ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Haut
+
+
+**** Génération 43  ****
+ScoreMoyen : 77.506 
+
+BestScore : 136 
+
+↓ → ↓ ↓ ↑ → ↓ ↑ 
+↓ ← ↑ ← ← → ↓ → 
+→ → → ↓ ↑ ← → ↑ 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+← ↑ → ↑ ↓ ↑ ↓ → 
+→ ↓ ↑ ↓ → ↓ ↑ → 
+↓ ↑ ← ↓ ↑ ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Haut
+
+
+**** Génération 44  ****
+ScoreMoyen : 74.17 
+
+BestScore : 137 
+
+↓ ↑ ↓ ↓ → ↑ ← ↑ 
+↓ ← ↑ ← ← → ↑ → 
+→ → → ↓ → ← ↑ ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ↑ ↓ ← ↑ ← 
+→ ↑ ↑ ↑ ↓ ↑ ↓ → 
+← → ← ↓ → ↓ ↑ → 
+↑ ↑ ← ↓ ↑ ↑ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Haut
+
+
+**** Génération 45  ****
+ScoreMoyen : 76.958 
+
+BestScore : 137 
+
+↓ ↑ ↓ ↓ → ↑ ← ↑ 
+↓ ← ↑ ↓ ← → ↑ → 
+→ → → ↓ → ← ↑ ← 
+↑ ↓ → → ↓ ↑ ↑ → 
+→ ↓ ← ↑ ↓ ← ↑ ← 
+→ ↑ ↑ ↑ ↓ ↑ ↓ → 
+← → ← ↓ → ↓ ↑ → 
+↑ ↑ ← ↓ ↑ ↑ ↑ ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Haut
+
+
+**** Génération 46  ****
+ScoreMoyen : 76.018 
+
+BestScore : 148 
+
+↓ ↑ ← ↓ ↓ ↑ ↓ ← 
+↓ ← ↑ ↑ ↓ → ↓ → 
+→ → → ↓ → ↑ ↓ ↓ 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ↓ ← ↓ ↓ → → ← 
+→ ↑ ↓ ↑ ↓ ← ↓ → 
+↓ ↑ ← ↓ → ↓ → ↑ 
+↑ ↑ ↓ → → ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Droite
+
+
+**** Génération 47  ****
+ScoreMoyen : 75.068 
+
+BestScore : 148 
+
+↓ ↑ ← ↓ ↓ ↑ ↓ ← 
+↓ ← ↑ ↑ ↓ ↑ ↓ → 
+→ → → ↓ → ↑ ↓ ↓ 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ← ← ↓ ↓ → → ← 
+→ ↑ ↓ ↑ ↓ ← ↓ → 
+↓ ↑ ← ↓ → ↓ → ↑ 
+↑ ↑ ↓ ↑ → ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Droite
+
+
+**** Génération 48  ****
+ScoreMoyen : 78.802 
+
+BestScore : 148 
+
+↓ ↑ ↓ ↓ ↑ ↑ ↑ ← 
+↓ ← ↓ ← ↓ → ↓ ↑ 
+→ → → ↓ ↑ ← ↓ ← 
+↑ ↓ ↓ → ↓ ↑ ↑ → 
+→ ↓ → ← ↓ → ↑ ← 
+→ ↑ ↑ ↑ ↓ ← ↓ ← 
+↓ → ← ↓ → ↓ → ↑ 
+↑ ↓ ↑ → → ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Droite
+
+
+**** Génération 49  ****
+ScoreMoyen : 80.282 
+
+BestScore : 148 
+
+↓ ↓ ← ↑ ↓ ↑ ↓ ← 
+↓ ← ↓ ↑ ↓ → ↓ → 
+→ → → ↓ → ↑ ↓ ↓ 
+↑ ↑ ↓ → ↓ ↑ ↑ → 
+→ ↑ ← ↓ ↓ → → ← 
+→ → ↓ ↑ ↓ ← ↓ → 
+↑ ↑ ← ↓ → ↓ → ↑ 
+↑ → ← → → ← ↑ ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Gauche
+Droite
+
+
+**** Génération 50  ****
+ScoreMoyen : 80.146 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → → ↓ ↑ 
+↓ → ↑ ← ← → ↓ → 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ → → ↓ ↓ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ → ↓ ↓ → ↓ ↑ ↓ 
+← ← ← ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 51  ****
+ScoreMoyen : 85.054 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → → ↓ ↑ 
+↓ → ↑ ← ← → ↓ → 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ → → ↓ ↓ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ → ↓ ↓ → ↓ ↑ ↓ 
+← → ← ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 52  ****
+ScoreMoyen : 107.886 
+
+BestScore : 854.0 
+
+↓ → ↓ → → → ↓ ↑ 
+↓ → ↑ ← ← → ↓ → 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ → → ↓ ↓ ↑ → 
+→ ↓ ← ← ↓ ↓ ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ → → ← → ↓ ↑ ↓ 
+← ← ← ↓ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 53  ****
+ScoreMoyen : 181.332 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → → ↓ ↑ 
+↓ → ↑ ↓ ← → ↓ → 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ ← → ↓ ↓ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ ← 
+→ → ↓ ↓ → ↓ ↑ ↓ 
+← ↑ ← ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 54  ****
+ScoreMoyen : 307.478 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → → ↓ ↑ 
+↓ → ↑ ← ← → → → 
+→ → → ↓ ↓ ↑ → → 
+↑ ↓ → → ↓ ↓ ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ ↓ ↓ ↓ → ↓ ↑ ↓ 
+← ↑ ← ↑ ← → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 55  ****
+ScoreMoyen : 455.882 
+
+BestScore : 854.0 
+
+↓ → ↓ → → → ↓ ↑ 
+↓ → ↑ ← ← → ↓ → 
+→ → → ↓ ↓ ↑ ↓ ↑ 
+↑ ↑ → → ↓ ↑ ↑ → 
+→ → ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ → → ← → ↓ ↑ ↓ 
+→ → ← ↓ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 56  ****
+ScoreMoyen : 471.716 
+
+BestScore : 854.0 
+
+↓ ← ↓ ↑ → → → ← 
+↓ ↑ → ← ← → ↓ → 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ → → ↓ ↓ ↑ ↓ 
+→ ↓ ← ← ↓ ← ↑ ← 
+← ↑ → ↑ ↓ ← ← ↑ 
+→ → ↓ ↓ → ↓ ↑ ↓ 
+← → ← ↓ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 57  ****
+ScoreMoyen : 474.384 
+
+BestScore : 854.0 
+
+↓ → ← → → → ↓ ↑ 
+↓ → ← ← ← → ↓ → 
+→ → → ↓ ↓ → → ↑ 
+↑ ↓ ↓ → ↓ ↓ ↓ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↓ → ↑ ↓ ↑ ↓ → 
+→ ↓ ↓ ← → ↓ ↑ ↓ 
+← ← ← ↓ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 58  ****
+ScoreMoyen : 469.402 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → ↓ ↓ ↑ 
+↓ → ↑ ← → → ↓ ↑ 
+→ → → ↓ ↓ ↑ ↑ ↓ 
+↑ ↓ → → ↓ → ↑ → 
+→ ↓ ← ← ↓ ← ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ← → 
+→ → ↑ ↓ → ↓ ↑ ← 
+↓ ← ↓ ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 59  ****
+ScoreMoyen : 452.164 
+
+BestScore : 854.0 
+
+↓ → ← ↓ → ↓ → ← 
+↓ → ↑ ← ← → ↓ ↓ 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↑ → → ↓ → ↑ → 
+→ ↓ ← ← ↓ ↓ ↑ ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+← → ← ← → ↓ ↑ ↓ 
+↓ → → → → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 60  ****
+ScoreMoyen : 465.612 
+
+BestScore : 854.0 
+
+↓ → ↓ ↓ → → → ← 
+↓ → ← ← ↓ → ↓ ↓ 
+→ → → ↓ → ↑ ↓ ↑ 
+↑ ← → → ↓ ↓ ↓ → 
+→ ↓ ← ← ↓ ↑ ↑ ← 
+↓ ↑ → ↑ ↓ ← ↓ ↓ 
+→ → ← ← → ↓ ↑ ↓ 
+↓ ↑ → ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 61  ****
+ScoreMoyen : 466.88 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → ↓ → ↑ 
+↓ ↓ ↑ ↓ ↓ → ↓ → 
+→ → → ↓ ↓ ↑ ↓ ↓ 
+↓ ↓ → → ↓ → ↑ → 
+→ → ← ← ↓ → ← ← 
+↓ ↑ → ↑ ↓ ↑ ↓ → 
+→ → ↓ ↓ → ↓ ↑ ↓ 
+→ → ← ↓ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 62  ****
+ScoreMoyen : 475.702 
+
+BestScore : 854.0 
+
+↓ → → ↑ → ↓ → ↑ 
+↓ → ↑ ← ← ↑ ↓ → 
+→ → → ↓ ↓ ↑ ↑ ↑ 
+↑ ↓ → → ↓ ↑ ↑ → 
+↑ ↓ ← ↑ ↓ ← ↑ ↓ 
+↓ ↑ → ↑ ↓ → ↓ ↑ 
+→ → ↓ ↓ → ↓ ↑ ← 
+↓ ↑ ← ← ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 63  ****
+ScoreMoyen : 474.206 
+
+BestScore : 854.0 
+
+↓ ← ↓ ← → → → → 
+↓ ↑ ↑ ← ← ↓ ↓ ↓ 
+→ → → ↓ ↓ ↑ → ↑ 
+↑ ↓ ↓ → ↓ ↓ ↑ ↓ 
+→ ↓ ↑ ← ↓ ← ↑ ← 
+← ↑ → ↑ ↓ ← ← → 
+→ ↑ ↓ ← → ↓ ↑ ↓ 
+↓ → ↓ ↓ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 64  ****
+ScoreMoyen : 446.96 
+
+BestScore : 854.0 
+
+↓ ↓ → ↓ ↓ → ↓ ↑ 
+↓ → ↑ ← ↑ ↓ ↓ ↑ 
+→ → → ↓ ← ↑ ↑ ↑ 
+↑ ↑ → → ↓ ↓ ↑ ↓ 
+↓ ↓ ← ← ↓ ↓ → ← 
+→ ↑ ← ↑ ↓ → ↓ ← 
+→ ↑ ↓ → → ↓ ↑ ← 
+← ↑ ← ↓ ← → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 65  ****
+ScoreMoyen : 440.806 
+
+BestScore : 854.0 
+
+↓ ← ↓ ← → → → ↑ 
+↓ ↑ ↑ → ↓ ↓ ↓ ↓ 
+→ → → ↓ ↓ ↓ → ↑ 
+↑ → ↓ → ↓ ↓ ↑ ↓ 
+↓ ↓ ↑ ← ↓ ← ↓ ↑ 
+← ← → ↑ ↓ ← ← → 
+↓ → ← ← → ↓ ↑ ↓ 
+↓ → ↓ → ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 66  ****
+ScoreMoyen : 484.626 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ ↓ → ↓ ← 
+↓ → ↑ ↓ ↓ → → → 
+→ → → ↓ ↓ ↑ ↑ ↑ 
+↑ ↓ → → ↓ ↑ ↑ ↑ 
+→ → ↑ ← ↓ ← ↑ ← 
+↓ ↑ ← ↓ ↓ ↑ ↓ → 
+↑ → ↓ ↓ → ↓ ↑ → 
+← → ← ↑ ← → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 67  ****
+ScoreMoyen : 479.924 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ → ↓ ← ← 
+↓ ← ↑ ← ← ↓ ↑ → 
+→ → → ↓ ↓ → ↑ → 
+↑ ↓ ↑ → ↓ ← → → 
+↑ ↑ ← ↑ ↓ ← → ↓ 
+↓ ↑ ↓ ↑ ↓ → ↑ ↑ 
+← → ← ↓ → ↓ ↑ ← 
+← ↑ ← ← ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 68  ****
+ScoreMoyen : 484.572 
+
+BestScore : 854.0 
+
+↓ → → → → ← ↑ ↑ 
+↓ ↓ ↑ ↑ ← → ↓ ← 
+→ → → ↓ ↓ ↑ → ← 
+↑ ↑ ← → ↓ ↓ ↑ ↑ 
+→ ↓ → ← ↓ → ↑ → 
+↓ ↑ ← → ↓ → → ↓ 
+→ → ← ← → ↓ ← ↓ 
+← ↓ ← ← → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 69  ****
+ScoreMoyen : 472.772 
+
+BestScore : 854.0 
+
+↓ ↓ ↓ ↑ → → ← → 
+↓ → ← ← ← → ← → 
+→ → → ↓ ↓ → → ↑ 
+↑ ↓ ← → ↓ ↓ ↑ ← 
+→ ← ← ← ↓ ← → → 
+↑ ↑ → ← ↓ ↓ ↓ ↑ 
+↓ ↓ ↓ ← → ↓ ↑ ← 
+← → ← ↓ ↓ → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 70  ****
+ScoreMoyen : 439.02 
+
+BestScore : 854.0 
+
+↓ → ← → → ↓ ↓ → 
+↓ → ← ↓ ↑ → ↓ → 
+→ → → ↓ → ← ↓ ↑ 
+↑ → → → ↓ → ↑ → 
+→ → → ↑ ↓ ← ↑ ← 
+↓ ↑ → ← ↓ ↓ ↓ ↑ 
+→ → ← ↓ → ↓ ↓ ↓ 
+← → ← ↑ ↓ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 71  ****
+ScoreMoyen : 455.43 
+
+BestScore : 854.0 
+
+↓ ↓ ← ↑ ↑ ↑ ↓ → 
+↓ ← ↑ → ↓ → ↓ → 
+→ → → ↓ ↓ → ↓ ↓ 
+↑ ← → → ↓ ↑ ↓ → 
+↓ → → ← ↓ ↑ → ↓ 
+→ ↓ ↓ ↓ ↓ ↑ ↓ → 
+→ ↑ ↑ ↑ → ↓ ↑ → 
+← → ← → → → → ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 72  ****
+ScoreMoyen : 472.436 
+
+BestScore : 854.0 
+
+↓ → ← ↑ ↑ ↑ ← ← 
+↓ ← ↑ → ↓ → ↓ ↑ 
+→ → → ↓ ↓ → ↓ ↓ 
+↑ ← → → ↓ ↑ ↓ → 
+↓ ↓ ← ← ↓ ↑ → ↓ 
+→ ↓ ↓ ↓ ↓ ↑ ↓ → 
+→ ↑ ↑ → → ↓ ↑ → 
+← → ← ← ← → → ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 73  ****
+ScoreMoyen : 458.376 
+
+BestScore : 854.0 
+
+↓ → → ← ↑ → ↑ ↓ 
+↓ ↓ → ↑ ← ← ↓ ↑ 
+→ → → ↓ ↓ → ← ↑ 
+↑ ← ← → ↓ ↑ ↑ ← 
+→ ↑ ↑ ← ↓ ↑ ↓ → 
+← ↑ ↓ → ↓ ↑ ↓ → 
+← ↑ → ← → ↓ ↓ ← 
+↓ ← ← ↓ ↑ → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 74  ****
+ScoreMoyen : 499.694 
+
+BestScore : 854.0 
+
+↓ → ↑ ↑ ↓ ← → ← 
+↓ → ↓ ↑ ↑ → ↓ ↓ 
+→ → → ↓ ↓ ↑ → ↓ 
+↑ ↑ ← → ↓ ↓ ↑ → 
+↓ ↑ → ← ↓ → → ← 
+← ↑ ↑ ↓ ↓ ↑ ↓ ↓ 
+↑ ← → ↓ → ↓ ↑ ↑ 
+← → ↓ ↓ ↓ → → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 75  ****
+ScoreMoyen : 504.566 
+
+BestScore : 854.0 
+
+↓ → ↓ ↓ → ↑ ↑ ↑ 
+↓ → ↓ ← ← → ← → 
+→ → → ↓ → ← → ↑ 
+← ↓ → → ↓ ↓ ← → 
+→ ↑ ← ← ↓ ↓ ← ← 
+↓ ↑ → ↑ ↓ → ↓ → 
+↓ ← ↑ ↓ → ↓ → ↓ 
+← ↑ ↓ → → → → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 76  ****
+ScoreMoyen : 487.152 
+
+BestScore : 854.0 
+
+↓ → → ← ↑ → ← ↓ 
+↓ ↓ → ↑ ← ← ↓ ↑ 
+→ → → ↓ ↓ → ← ↑ 
+← ← ← → ↓ ↑ ↑ ← 
+→ ↓ ↑ ← ↓ ↑ ↓ → 
+→ ↑ ↑ → ↓ ↑ ↓ → 
+← ↑ → ← → ↓ ↓ ← 
+↑ ← ← ↓ ↑ → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 77  ****
+ScoreMoyen : 479.856 
+
+BestScore : 854.0 
+
+↓ → ↓ ↑ ← ↑ ← ↑ 
+↓ → ↓ ↑ ↑ → ↓ → 
+→ → → ↓ ← → → ↑ 
+↑ ↓ ← → ↓ → ← → 
+↑ ← → ← ↓ ↓ ↑ ← 
+← ↑ → ← ↓ ↑ ↑ ← 
+→ → ↓ ↑ → ↓ → ↓ 
+← → ← → ← → → ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 78  ****
+ScoreMoyen : 491.112 
+
+BestScore : 854.0 
+
+↓ → ↓ ↓ ↓ ↓ ← ← 
+↓ ↑ ↑ → ↑ ↓ ↓ → 
+→ → → ↓ ↑ ↑ ← ← 
+↓ ↓ ↓ → ↓ ↑ ← ↑ 
+→ ↑ ← ↑ ↓ → ↑ ← 
+← ↓ → ← ↓ ← ↑ ↑ 
+↑ ↑ ← ↓ → ↓ ↑ ↑ 
+↓ ↓ ↑ ← ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 79  ****
+ScoreMoyen : 432.836 
+
+BestScore : 854.0 
+
+↓ ↓ → ← ↓ ↑ ← ↓ 
+↓ ↓ ↑ ← ← ← ↑ ↓ 
+→ → → ↓ ← → ↑ ↑ 
+→ ↓ ↑ → ↓ → ↑ ← 
+↓ → ← → ↓ ← ↑ ↑ 
+← ← ← ↓ ↓ ↑ ↓ → 
+→ ↑ ↑ ← → ↓ ↓ ← 
+← ↓ ← ↑ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 80  ****
+ScoreMoyen : 493.182 
+
+BestScore : 854.0 
+
+↓ ↓ → ← ↓ → ← ↑ 
+↓ ↑ ↓ ← ↓ → ↑ → 
+→ → → ↓ → ↓ → ↑ 
+↑ ↓ → → ↓ ↓ ↑ ← 
+↑ ↓ ← ↑ ↓ ← → ↓ 
+→ ↑ ← → ↓ ↑ ← → 
+↑ ↑ ↑ ← → ↓ ↓ → 
+← → ↓ ↓ → → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 81  ****
+ScoreMoyen : 445.06 
+
+BestScore : 854.0 
+
+↓ → ↓ ↓ ← ↓ ← ↓ 
+↓ ← ← ← ← ↑ ↓ ← 
+→ → → ↓ ↑ → ← ← 
+→ ↓ ↑ → ↓ → ↑ ↑ 
+→ ← ↓ ↓ ↓ → → ← 
+↑ ↑ → ↑ ↓ ← ← → 
+→ → ↓ ← → ↓ ↑ → 
+↑ ↓ ↑ ← ← → → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 82  ****
+ScoreMoyen : 459.934 
+
+BestScore : 854.0 
+
+↓ → → → ↓ → ↑ → 
+↓ ↑ ← ↓ ↓ ↓ ↓ ← 
+→ → → ↓ ← ↓ → ↑ 
+↑ ↓ ↓ → ↓ ↓ ← → 
+↑ → ↓ ↑ ↓ ↑ ↑ → 
+↑ ← ↓ → ↓ ← → ↓ 
+← ← → ← → ↓ ← → 
+→ ↓ ← ↑ → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 83  ****
+ScoreMoyen : 462.904 
+
+BestScore : 854.0 
+
+↓ ← ↓ ↓ ↑ ↓ ↓ ↑ 
+↓ ↓ ↑ ← ↑ → ↓ → 
+→ → → ↓ ← ↑ ← ← 
+↑ ↓ ↑ → ↓ ↑ ↑ ↑ 
+↓ → ← → ↓ → ↑ ↓ 
+↑ → → ← ↓ → ↓ → 
+→ ↓ ← ← → ↓ ↑ → 
+← ↓ ↓ ↓ ← → → ← 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 84  ****
+ScoreMoyen : 497.796 
+
+BestScore : 854.0 
+
+↓ ← ↓ ↓ ↑ ↓ → ← 
+↓ → ↓ ↓ → → → → 
+→ → → ↓ → → ↓ ← 
+→ ↓ ↑ → ↓ ↑ ↑ → 
+→ ↓ → → ↓ ↓ ← ↑ 
+→ → ← ↓ ↓ ↑ ↑ ← 
+→ ↓ ← ↓ → ↓ ← ↓ 
+↑ ↑ ↓ ↓ ↓ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 85  ****
+ScoreMoyen : 450.612 
+
+BestScore : 854.0 
+
+↓ → ↓ ↓ → → ← → 
+↓ → ← ← ← → ← ↓ 
+→ → → ↓ ↓ → ← ↑ 
+↑ ← ↓ → ↓ → ↓ ← 
+→ → → ← ↓ ← ← ← 
+→ ↑ → ← ↓ ↓ ↓ ↑ 
+↓ ↓ ← ← → ↓ ↑ ↑ 
+← ↑ → ← → → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 86  ****
+ScoreMoyen : 466.244 
+
+BestScore : 854.0 
+
+↓ → ← ↑ ↓ ↑ ↓ → 
+↓ ← → ← ↑ ← ↑ ↑ 
+→ → → ↓ ↓ ↓ ↓ ↓ 
+→ ← ↑ → ↓ → ↓ ← 
+↑ ↓ ↓ ↓ ↓ ↑ ↑ ↓ 
+↑ ↑ ← ↑ ↓ ↓ ↓ ↑ 
+← ↑ ↑ ↓ → ↓ ↑ → 
+↓ ← ← ↑ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 87  ****
+ScoreMoyen : 464.778 
+
+BestScore : 854.0 
+
+↓ → → → ↓ ↓ ↑ → 
+↓ → → ↑ ↓ ↑ ↓ ← 
+→ → → ↓ ↓ → → ↑ 
+↑ ↑ → → ↓ ↓ ← ↑ 
+↑ ↓ ↓ ↑ ↓ ↑ ↑ ↓ 
+↑ ← ↓ → ↓ ← → ↑ 
+← → ← ↓ → ↓ ← → 
+→ → ← ↑ → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 88  ****
+ScoreMoyen : 440.536 
+
+BestScore : 854.0 
+
+↓ ↑ ↓ → ↑ ↑ ↑ ← 
+↓ ↑ ↑ ← ↓ ← ↓ ← 
+→ → → ↓ ↑ ↓ ← → 
+↑ ← ← → ↓ ↓ ↑ → 
+↑ ↓ → ↓ ↓ ← ↑ ↑ 
+↑ → → ← ↓ ↓ ↓ ↑ 
+→ → → ↓ → ↓ ↑ ↑ 
+↓ ↑ ↑ ↑ ↓ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 89  ****
+ScoreMoyen : 444.21 
+
+BestScore : 854.0 
+
+↓ ← ← ↑ ↓ ↑ ↓ ↓ 
+↓ ↓ ← → ↓ ↑ ↓ → 
+→ → → ↓ ↓ ← → ↑ 
+← → ← → ↓ ← ↓ ← 
+↑ ↓ ← ↑ ↓ ← → ↓ 
+↓ ← ← ↓ ↓ ↓ ← ← 
+← ↑ ↑ → → ↓ ↑ ↓ 
+↓ ← ↑ ↑ → → → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 90  ****
+ScoreMoyen : 478.036 
+
+BestScore : 854.0 
+
+↓ ↓ → ↑ ↓ ↓ ↑ ↑ 
+↓ ↓ ↑ ← ← ← → ↓ 
+→ → → ↓ ← ← ↓ ← 
+→ ↓ ↑ → ↓ → ↑ ← 
+↓ → → → ↓ ↑ ← ↑ 
+← → → → ↓ ↑ ↓ → 
+→ ↑ → ← → ↓ ↓ ↓ 
+→ ↓ ← ↑ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 91  ****
+ScoreMoyen : 480.44 
+
+BestScore : 854.0 
+
+↓ ↓ → ↑ ↓ ↓ ↑ ↑ 
+↓ ↓ ↑ ← ← ← → ↓ 
+→ → → ↓ ← ← ↓ ← 
+↓ ↓ ↑ → ↓ → ↑ ← 
+↓ → → → ↓ ↑ ← ← 
+← → → → ↓ ↑ ← → 
+→ ↑ → ← → ↓ ↓ ↓ 
+→ ↓ ← ↑ ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 92  ****
+ScoreMoyen : 495.434 
+
+BestScore : 854.0 
+
+↓ ← ↓ → ↑ ↑ ↑ ↓ 
+↓ ↓ ↓ ← ↑ → ↓ ← 
+→ → → ↓ ← → ↓ ← 
+→ ↓ ↓ → ↓ ↓ ↑ → 
+→ ↓ → ↓ ↓ ↑ ↑ ↑ 
+← ← ↓ ↓ ↓ ← ↑ ← 
+→ ↓ ↑ ↓ → ↓ ↓ ← 
+← ↑ ↓ ↓ ↑ → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 93  ****
+ScoreMoyen : 482.87 
+
+BestScore : 854.0 
+
+↓ ↓ ↑ ↑ → → ← → 
+↓ ← ← ↑ ↑ → ← ← 
+→ → → ↓ ← ↑ → ↑ 
+↑ ↑ ↓ → ↓ ← ← ← 
+→ ← ↑ ← ↓ ↑ → ↓ 
+↓ → ← ← ↓ → ↓ ↑ 
+↓ ↑ → ← → ↓ ← ← 
+← ↓ → ← ↓ → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 94  ****
+ScoreMoyen : 482.952 
+
+BestScore : 854.0 
+
+↓ ↑ → ↑ ← → → ↑ 
+↓ ↑ ↓ ↑ → → → → 
+→ → → ↓ ↓ ← → ↑ 
+↓ ↓ ← → ↓ ↓ ← → 
+↑ ← → ↓ ↓ ← ↑ ← 
+→ ↑ ↓ ← ↓ → ← → 
+← ↓ ← ↑ → ↓ ↑ ↑ 
+↑ ↑ ↑ → ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 95  ****
+ScoreMoyen : 478.256 
+
+BestScore : 854.0 
+
+↓ ↑ → → ↓ ↑ ↑ ↓ 
+↓ → ← ↓ ↓ ↑ ← ↑ 
+→ → → ↓ ↑ ↑ ↓ ← 
+↓ ↑ ↓ → ↓ ← ← → 
+← ↑ → ↓ ↓ ↓ ↑ ← 
+↑ ↑ ↓ → ↓ → ↓ ← 
+→ ← → ↑ → ↓ ← → 
+↑ ↑ ↑ ↑ ↑ → → ↓ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 96  ****
+ScoreMoyen : 490.578 
+
+BestScore : 854.0 
+
+↓ ← ↑ ↓ ← ↓ ↓ → 
+↓ → → → ↓ ↑ ↓ → 
+→ → → ↓ ↑ ← → ← 
+← ← → → ↓ → ↓ ↑ 
+↓ ↑ ← ← ↓ ↓ ↓ ← 
+→ ← → ← ↓ → ← ← 
+↑ → ↑ ↑ → ↓ ↑ ← 
+→ ← ← ← → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 97  ****
+ScoreMoyen : 485.704 
+
+BestScore : 854.0 
+
+↓ → ↓ ← → ← ↑ → 
+↓ → ← ← ← ↓ ← ↑ 
+→ → → ↓ ↓ ↑ ← → 
+↓ → ↓ → ↓ ↓ ← ↑ 
+↓ ← ↓ ← ↓ ↓ ↑ ← 
+↑ ↑ → → ↓ → ↓ ↑ 
+→ ↓ ← ↓ → ↓ → ← 
+↓ ↑ ↓ ← ↑ → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 98  ****
+ScoreMoyen : 482.516 
+
+BestScore : 854.0 
+
+↓ → ← ↑ ↓ → ↓ ↓ 
+↓ ← ← → ↓ ↑ ↓ → 
+→ → → ↓ ← ← → ↑ 
+← → ← → ↓ ← → ← 
+← ← ← ↑ ↓ ← → ↓ 
+↓ ← ↓ ↓ ↓ ↓ → ← 
+← ↓ ↑ ↑ → ↓ ← ↓ 
+↓ ← ↑ ↑ ← → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 99  ****
+ScoreMoyen : 466.512 
+
+BestScore : 854.0 
+
+↓ → ← ↑ ↑ ↑ ↓ ← 
+↓ ← ↓ → ↓ ← ↓ → 
+→ → → ↓ ← → → ↑ 
+→ ← ← → ↓ → ↑ ↓ 
+↑ ↓ ← ↑ ↓ ← → ↓ 
+→ ↑ ↓ ↓ ↓ ↓ ↑ ← 
+← ↑ ← ↓ → ↓ ↑ ↓ 
+↓ ← ← ↑ → → → → 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
+**** Génération 100  ****
+ScoreMoyen : 487.2 
+
+BestScore : 854.0 
+
+↓ ↓ ↑ ↓ ↑ → → ↓ 
+↓ ↓ ↑ ↑ → ← ← ↑ 
+→ → → ↓ ↓ → ↑ ← 
+→ ↓ ↓ → ↓ ↓ ← ← 
+→ → ← ← ↓ ↑ ↑ ← 
+→ ← → ↑ ↓ → ← → 
+↓ ← ↑ ← → ↓ → ↓ 
+→ → ← ↑ → → → ↑ 
+Meilleur combinaison :
+Bas
+Bas
+Droite
+Droite
+Droite
+Bas
+Droite
+Bas
+Bas
+Bas
+Droite
+Bas
+Droite
+Droite
+
+
