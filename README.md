@@ -1,5 +1,5 @@
 # labyrinthGeneticSolver
-##Solveur génétique de labyrinthe ASCII
+## Solveur génétique de labyrinthe ASCII
 
 Fonctionnement du code
 I Modélisation du problème
@@ -19,15 +19,8 @@ la représentation qui consiste à coder le labyrinthe en deux tableaux :
 Évidemment ce codage n'est pas très intuitif, c'est son défaut majeur, mais notons qu'en mêlant ces
 deux tableaux on pourra facilement générer une matrice labyrinthe où les barres deviennent des
 cases bloquées, et les cases vides seront à 0.
-┌─────┬─────┬───┐
-├───┐ └─┐ ┌─┘ ╷ │
-│ ╷ ├─ ╴ │ │ ┌─┘ │
-│ │ │ ┌─┘ ╵ │ ╷ │
-│ │ │ │ ╶ ───┤ └─┤
-│ │ │ ├─ ╴ ┌─┴─┐ │
-│ └─┤ └─┐ │ ╷ ╵ │
-│ ╷ └─ ╴ └─┘ ├─ ╴ │
-└─┴─────────┴───┘
+
+
 Exemple d'un labyrinthe unicode
 II Génotype
 Comme exposé dans le cours, on utilisera le codage de solution par position, qui apparemment
@@ -65,96 +58,4 @@ Le code complet du programme se trouve dans le fichier Maze_gen/gen_lab.py
 Testons le sur le labyrinthe 5*5 maze1 généré par le programme Maze_gen/generatemaze.py de
 Vidar Holen, disponible sur la page http://www.vidarholen.net/~vidar/generatemaze.py :
 Maze_gen$ ./gen_lab.py maze1
-┌───────┬─┐
-├─────┐ │ │
-├─── ╴ │ │ │
-│ ╶ ───┤ ╵ │
-│ ╶ ─┐ └─ ╴ │
-└───┴─────┘**** Génération 0 ****
-ScoreMoyen : 1.324
-BestScore : 38
-→ → → ← →
-↓ ↓ ← → →
-↓ ← ↓ ← ←
-↓ ↓ ↑ ← ←
-↓ ↓ → ↑ ↓
-Meilleur combinaison :
-Droite
-Droite
-Droite
-Gauche
-...
-**** Génération 99 ****
-ScoreMoyen : 427.138
-BestScore : 488.0
-→ → → ↓ →
-← ↑ ← ↓ →
-→ ↑ → ↓ →
-← → ↓ → ↓
-← ↑ ↓ → ←
-Meilleur combinaison :
-Droite
-Droite
-Droite
-Bas
-Bas
-Bas
-Droite
-Bas
-On constate qu’à la 99 e génération (en fait dès la 10 e ), le programme a bien réussi à trouver la
-solution la plus efficace au problème.
-On tente de résoudre avec ce programme des labyrinthes plus complexes :
-~$ generatemaze.py 10 10 > maze2 ; ./gen_lab.py maze2 > sortie2
-????????????????? 
-? ?  ╵   ╶ ?? ?  ╷   ╶ ?? 
-? ???????  ╵  ??? ? 
-??????? ??????? ? 
-???? ╴  ??? ? ????? 
-? ???? ╴  ? ?  ╵   ╷  ? 
-? ??????? ??? ? ? 
-?  ╶ ???? ?? ╴  ??? ? 
-????????????????? **** Génération 0  ****
-ScoreMoyen : 2.27 
-BestScore : 49 
-↓ ← ← ↓ ↓ ↑ → ↑ 
-↓ → → ← ↑ ← ↑ → 
-→ → ← → ← ↓ → ↓ 
-→ → → ↑ → ← → ↓ 
-→ → ↓ → → ↑ ↑ ← 
-↓ → ↓ ↑ ↓ → ↑ → 
-↑ ← ← ↑ ↑ ← ← ↑ 
-← ← → → ↓ ↓ ↑ ← 
-Meilleur combinaison :
-Bas
-Bas
-Droite
-Droite
-Gauche
-... 
-**** Génération 100  ****
-ScoreMoyen : 487.2 
-BestScore : 854.0 
-↓ ↓ ↑ ↓ ↑ → → ↓ 
-↓ ↓ ↑ ↑ → ← ← ↑ 
-→ → → ↓ ↓ → ↑ ← 
-→ ↓ ↓ → ↓ ↓ ← ← 
-→ → ← ← ↓ ↑ ↑ ← 
-→ ← → ↑ ↓ → ← → 
-↓ ← ↑ ← → ↓ → ↓ 
-→ → ← ↑ → → → ↑ 
-Meilleur combinaison :
-Bas
-Bas
-Droite
-Droite
-Droite
-Bas
-Droite
-Bas
-Bas
-Bas
-Droite
-Bas
-Droite
-Droite
-Idem, dès la 50 e génération, la solution était optimale.
+
